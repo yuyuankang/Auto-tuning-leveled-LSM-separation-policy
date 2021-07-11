@@ -18,4 +18,4 @@ The auto-tuning algorithm is implemented in implement.py. The core data structur
 
 ## Impact on SSTable Size
 
-To shows the sizes of SSTables after writing LSM-tree with separation policy, file_size_discuss.py shows the codes. 
+To show the sizes of SSTables after writing LSM-tree with separation policy, file_size_discuss.py shows the codes. 
