@@ -158,8 +158,8 @@ def works(process_id, time_intervals, total_num, buffer_size, statistics_number,
     :param sigma: parameter of lognormal distribution, sigma
     :param print_lock: process lock, for printing logs
     """
-    mus = [3, 3.5]
-    sigmas = [0.5, 1, 1.5, 2, 2.5]
+    mus = [4, 4.5, 5]
+    sigmas = [1, 1.5, 2]
 
     for mu in mus:
         for sigma in sigmas:

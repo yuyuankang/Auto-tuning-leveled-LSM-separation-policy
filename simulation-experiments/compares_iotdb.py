@@ -170,8 +170,7 @@ def works(process_id, time_intervals, total_num, buffer_size, statistics_number,
 
 if __name__ == '__main__':
 
-    # possible_intervals = [50, 100, 500, 1000, 5000]
-    possible_intervals = [5000]
+    possible_intervals = [50, 100, 500, 1000, 5000]
     np.random.shuffle(possible_intervals)
     process_num = len(possible_intervals)
 
