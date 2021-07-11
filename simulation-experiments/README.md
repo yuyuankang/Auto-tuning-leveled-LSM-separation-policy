@@ -8,9 +8,9 @@ For drawing the histograms of writing times of each data point in LSM-tree with/
 
 ## Model Evaluation
 
-The experiments where $\mu=4$ and $\sigma=1.5$ can be reproduced by compares_iotdb.py.
+The experiments where μ=4 and σ=1.5 can be reproduced by compares_iotdb.py.
 
-The experiments with various delay distributions ($\mu=4, 4.5, 5$ and $\sigma=1, 1.5, 2$) can be reproduced by compares_various_distribution.py.
+The experiments with various delay distributions (μ=4, 4.5, 5 and σ=1, 1.5, 2) can be reproduced by compares_various_distribution.py.
 
 ## Evaluation of Auto-tuning Algorithm
 
